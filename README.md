@@ -9,7 +9,7 @@ For more details on the project, checkout [fictiv.com/fosmc](http://fictiv.com/f
 # Design Intent
 The design challenge was to build a motorcycle that could be assembled in a garage with minimal hand tools—-no welding allowed. Our goal was to empower individuals to create by designing a motorcycle that anyone could assemble and build.
 
-The initial inspiration for FOSMC came from Jack Lennie’s Tinker Bike. However, after further investigation into the design, we found many mechanical flaws that motorcycle experts felt were unsafe. Additionally, the design files for Tinker Bike were not made freely available to the public, despite being promoted as “open source”. So we built our own motorcycle design from scratch!
+The initial inspiration for FOSMC came from Jack Lennie’s [Tinker Bike](http://www.jacklenniedesigner.com/tinker). However, after further investigation into the design, we found many mechanical flaws that motorcycle experts felt were unsafe. Additionally, the design files for Tinker Bike were not made freely available to the public, despite being promoted as “open source”. So we built our own motorcycle design from scratch!
 
 # Parts
 All design files for FOSMC can be found in the CAD folder of this directory and can be fabricated at a local machine shop, in your garage (if you have the equipment), or by [Fictiv](http://fictiv.com).
