@@ -1,0 +1,10 @@
+0.1.0 - Initial repo 2022-09-03
+
+- Forked from fictiv/FOSMC
+- Expanded all zipped content
+- Added link to TinkerBike in README.txt
+- Identified that BOM 05-09 deleted in current fictiv download. Changed file prefix to *deleted
+- Removed Monster-related logo files
+- Confirmed harborfrieght.com and eastwood.com links are valid
+- Cloned github wiki to /Assembly
+- Removed the FOSMC prefix from many filenames
